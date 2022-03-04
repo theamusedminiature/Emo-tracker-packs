@@ -4,13 +4,13 @@
         {
             "name": "Dragon Warrior Randomizer",
             "author": "theamusedminiature",
-            "game name": "Dragon Warrior Randomizer",
+            "game name": "Dragon Warrior",
             "version": "1.0.0.0",
             "flags":[
                 "map", "items"
             ],
             "required_app_version": "2.1.0.0",
-            "uid":"dragon_warrior",
+            "uid":"dragonwarrior_theamusedminiature",
             "link":"https://theamusedminiature.github.io/Trackers/dragon_warrior.zip",
             "variants": [
                 {
