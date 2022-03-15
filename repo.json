@@ -4,7 +4,7 @@
         {
             "name": "Dragon Warrior Randomizer",
             "author": "theamusedminiature",
-            "game name": "Dragon Warrior",
+            "game_name": "Dragon Warrior",
             "version": "1.0.0.0",
             "flags":[
                 "map", "items"
